@@ -21,6 +21,11 @@ function toggleMode() {
   }
 }
 
+function mensagemErro() {
+
+  alert("Arquivo não encontrado")
+}
+
 
 
 
